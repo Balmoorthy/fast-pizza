@@ -62,7 +62,7 @@ To get started with Fast React Pizza, follow these steps:
    yarn dev
    ```
 
-5. **Open your browser and navigate to** `http://localhost:5173` **to view the application.** _(Vite uses port 5173 by default)_
+5. **Open your browser and navigate to** `http://localhost:5173` **to view the application.**
 
 ## Usage
 
