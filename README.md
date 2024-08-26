@@ -30,7 +30,7 @@ To get started with Fast React Pizza, follow these steps:
 ### Prerequisites
 
 - Node.js (v14 or later)
-- npm (v6 or later) or Yarn (v1.22 or later)
+- npm (v6 or later)
 
 ### Installation
 
@@ -50,16 +50,12 @@ To get started with Fast React Pizza, follow these steps:
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 4. **Start the development server:**
 
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 5. **Open your browser and navigate to** `http://localhost:5173` **to view the application.**
